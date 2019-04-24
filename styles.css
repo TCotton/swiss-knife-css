@@ -70,3 +70,13 @@ Article URL: https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/
 :root * + * {
 	margin-top: 2rem; /* change value as required */
 }
+
+/**
+I found this on my Twitter feed
+I can't find the original author, soz
+ */
+
+.aspect-ratio {
+	width: 100vw;
+	height: calc(100vw * 9/16);
+}
